@@ -3,7 +3,7 @@ Student Record Management System
 Description:
 This is a simple Command Line Interface (CLI) based Student Record Management System built using Java. It allows users to manage student records with basic CRUD operations — Create, Read, Update, and Delete student information. It is designed to practice real-world data structure usage, such as ArrayLists in Java.
 
-Features:-
+Features:
 Add Student: Add a new student with ID, name, and marks.
 View Students: View all students information.
 Update Student: Modify an existing student's details.
