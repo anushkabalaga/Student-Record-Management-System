@@ -33,10 +33,6 @@ Open the terminal in VS Code and use:
 javac StudentManagementSystem.java
 java StudentManagementSystem
 
-Open terminal in VS Code:
-Compile using: javac StudentManagementSystem.java
-Run using: java StudentManagementSystem
-
 Project Structure: 
 A Single Java file containing all logic and student class.
 Uses ArrayList to store student records. 
